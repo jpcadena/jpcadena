@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpcadena (Juan Pablo Cadena Aguilar)
+- 👋 Hi, I’m @jpcadena (Juan Pablo Cadena Aguilar).
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, open-source IoT and also Typescript for mobile apps.
 - 🌱 I’m currently learning the 3 most used web frameworks for Python: FastAPI, Flask and Django.
 - 💞️ I’m looking to collaborate on open-source projects for data science projects and introduction to programming for newcomers.
